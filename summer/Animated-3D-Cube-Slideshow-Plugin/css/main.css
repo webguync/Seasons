@@ -1,0 +1,42 @@
+/* page layout styles */
+*{
+    margin:0;
+    padding:0;
+
+}
+
+
+body {
+    background-color:#eee;
+    color:#fff;
+    font:14px/1.3 Arial,sans-serif;
+background:#FFFFCC;
+}
+
+
+header {
+   
+    box-shadow: 0 -1px 2px #111111;
+    display:block;
+    height:0px;
+    
+
+position:relative;
+    width:100%;
+height:100%;
+
+}
+
+
+
+
+
+
+
+.container {
+    height: 100%;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+
+}
